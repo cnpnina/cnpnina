@@ -6,13 +6,13 @@
 I'm an active learner passionate about data and machine learning, and I'm Seeking an internship opportunity in data science, so I can apply my knowledge, gain experience, 
 and expand my skills.
 
-- 👋 Hi, I’m @cnpnina
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
+
+
 
 <!---
 cnpnina/cnpnina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
