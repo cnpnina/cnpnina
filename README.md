@@ -6,9 +6,8 @@
 I'm an active learner passionate about data and machine learning, and I'm Seeking an internship opportunity in data science, so I can apply my knowledge, gain experience, 
 and expand my skills.
 
-🌏 &nbsp;based in Bangkok, Thailand
-
-✉️ &nbsp;Please feel free to contact me at [chanokporn.nina@gmail.com]
+-🌏 &nbsp;based in Bangkok, Thailand
+-✉️ &nbsp;Please feel free to contact me at [chanokporn.nina@gmail.com]
 
 
 
