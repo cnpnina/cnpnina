@@ -40,13 +40,9 @@ and expand my skills.
 <a href="https://medium.com/@chanokporn.nith" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" alt="HridoyHazard" height="40" width="40" /></a>
 
 
+
 ## My Github Stats
-<p align="center">
-<a href="https://github.com/cnpnina">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cnpnina&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cnpnina&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<a href="https://github.com/cnpnina/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cnpnina&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Chanokporn's github stats" /></a> | <a href="https://github.com/cnpnina/github-readme-stats"><img height ="195em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnpnina&layout=compact&langs_count=8&theme=algolia&hide_border=true" /></a> |
 
 <!---
 cnpnina/cnpnina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
