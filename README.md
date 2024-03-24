@@ -1,4 +1,5 @@
-## Hello, everyone !! 🙌 I'm Chanokporn Nithijaturon
+## Hello, everyone !! welcome to nn world 🙌
+## I'm Chanokporn Nithijaturon 🐿️
 
 
 
