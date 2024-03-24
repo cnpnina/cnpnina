@@ -1,7 +1,7 @@
 ## Hello, everyone!! welcome to nn world 🙌
-I'm Chanokporn Nithijaturon (nina) 🐿️
+**I'm Chanokporn Nithijaturon (nina) 🐿️**
 
-
+About me
 
 - 👋 Hi, I’m @cnpnina
 - 👀 I’m interested in ...
