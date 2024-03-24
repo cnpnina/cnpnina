@@ -10,7 +10,6 @@ and expand my skills.
 🌏 &nbsp;Based in Bangkok, Thailand\
 ✉️ &nbsp;Please feel free to contact me at [chanokporn.nina@gmail.com](mailto:chanokporn.nina@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=cnpnina&style=flat-square)
 
 
 
@@ -23,3 +22,4 @@ and expand my skills.
 cnpnina/cnpnina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](https://komarev.com/ghpvc/?username=cnpnina&style=flat-square)
