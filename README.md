@@ -6,9 +6,11 @@
 I'm an active learner passionate about data and machine learning, and I'm Seeking an internship opportunity in data science, so I can apply my knowledge, gain experience, 
 and expand my skills.
 
-📃 &nbsp;I’m currently open for a internship opportunity, this is [MY RESUME](https://drive.google.com/drive/folders/10M-bCRATMaEnOnHImLHeJ5YIF6tZYmdz?usp=sharing)\
+📃 &nbsp;I’m currently open for an internship opportunity, this is [MY RESUME](https://drive.google.com/drive/folders/10M-bCRATMaEnOnHImLHeJ5YIF6tZYmdz?usp=sharing)\
 🌏 &nbsp;Based in Bangkok, Thailand\
 ✉️ &nbsp;Please feel free to contact me at [chanokporn.nina@gmail.com](mailto:chanokporn.nina@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=cnpnina&style=flat-square)
 
 
 
