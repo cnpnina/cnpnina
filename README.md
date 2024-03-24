@@ -34,12 +34,20 @@ and expand my skills.
 
 <br>
 
-## Connect with me 🤝
+## Socials
+<a href="https://www.linkedin.com/in/chanokporn-nina/" target ="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="blue" height="40" width="40" /></a>
+<a href="https://github.com/cnpnina" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="HridoyHazard" height="40" width="40" /></a>
+<a href="https://medium.com/@chanokporn.nith" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" alt="HridoyHazard" height="40" width="40" /></a>
 
-[![@chanokporn-nina](https://img.icons8.com/fluency/48/000000/linkedin.png "@chanokporn-nina")](https://www.linkedin.com/in/chanokporn-nina/) 
 
 
-
+## My Github Stats
+<p align="center">
+<a href="https://github.com/cnpnina">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cnpnina&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cnpnina&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!---
 cnpnina/cnpnina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
