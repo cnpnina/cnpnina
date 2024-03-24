@@ -7,6 +7,7 @@ I'm an active learner passionate about data and machine learning, and I'm Seekin
 and expand my skills.
 
 🌏 &nbsp;based in Bangkok, Thailand
+
 ✉️ &nbsp;Please feel free to contact me at [chanokporn.nina@gmail.com]
 
 
