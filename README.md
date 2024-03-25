@@ -1,4 +1,4 @@
-## Hello, everyone!! welcome to nn world 🙌
+## Hello, everyone!! welcome to nn workspace 🙌
 ### &nbsp;I'm Chanokporn Nithijaturon (nina) 🐿️
 
 **Student at Bangkok University Bachelor of Engineering (Artificial Intelligence Engineering and Data Science)**
