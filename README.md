@@ -1,12 +1,10 @@
 ## Hello, everyone!! welcome to nn workspace 🙌
 ### &nbsp;I'm Chanokporn Nithijaturon (nina) 🐿️
 
-**Recent graduate at Bangkok University major in AI Engineering and Data Science.**
 
-I am a Data Scientist with experience in database design, data management, data analysis, data visualization, and
-machine learning. I have a strong passion for continuous learning and the ability to quickly adapt to new tools and
-technologies. I’m eager to apply my knowledge in real-world challenges, further develop my skills through hands-on
-experience, and contribute to data-driven projects, and gain valuable practical experience
+I am a Junior AI Engineer, I work on developing and applying AI agent systems to real-world use cases. I have academic experience in machine learning and chatbot development, along with a foundation in Data Science, including database design, data management, data analysis, and data visualization.
+I am passionate about artificial intelligence and motivated to apply my knowledge to solve practical problems. 
+I am eager to continuously learn, adapt to new technologies, and grow in challenging environments while contributing to impactful, data-driven projects.
 
 🌏 &nbsp;Based in Bangkok, Thailand\
 ✉️ &nbsp;Please feel free to contact me at [chanokporn.nina@gmail.com](mailto:chanokporn.nina@gmail.com)
