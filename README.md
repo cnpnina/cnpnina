@@ -6,6 +6,33 @@ I am a Junior AI Engineer, I work on developing and applying AI agent systems to
 I am passionate about artificial intelligence and motivated to apply my knowledge to solve practical problems. 
 I am eager to continuously learn, adapt to new technologies, and grow in challenging environments while contributing to impactful, data-driven projects.
 
+### Technical skills
+**1.Programming & Development**
+Python : NumPy, pandas, scikit-learn, seaborn, OpenCV, TensorFlow, PyThaiNLP, SQL
+Tools : Google Colab, Jupyter Notebook, RapidMiner, Roboflow, LangChain
+
+**2.Database**
+Database design : ER- Diagram
+Tools : MySQL, SQLite, Cloud SQL, MongoDB
+
+**3.Data Understanding & Preprocessing**
+
+**4.Machine Learning & Evaluation**
+Supervised Learning : Regression, KNN, Decision Tree, Naive Bayes, Neural Network
+Unsupervised Learning : K-means, Clustering, DBSCAN, PCA, Autoencoder, FP-Growth, Apriori, CNN, RNN
+Model Evaluation
+
+**5.Deep Learning & AI Applications**
+Image classification and object detection
+Text classification and tokenization using PyThaiNLP, DeepCut, AttaCut 
+Cloud : Google Cloud
+Prompt Engineering
+
+**6.Data Visualization & Communication** 
+Tools : Tableau, Power BI, Looker Studio, Google Sites, Python-based visualization (Matplotlib, seaborn)
+Microsoft Office Program
+Communicating insights through dashboard and reports
+
 🌏 &nbsp;Based in Bangkok, Thailand\
 ✉️ &nbsp;Please feel free to contact me at [chanokporn.nina@gmail.com](mailto:chanokporn.nina@gmail.com)
 
